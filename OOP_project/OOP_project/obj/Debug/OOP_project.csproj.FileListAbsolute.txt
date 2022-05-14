@@ -1,0 +1,15 @@
+E:\repos\OOP_project\OOP_project\bin\Debug\OOP_project.exe.config
+E:\repos\OOP_project\OOP_project\bin\Debug\OOP_project.exe
+E:\repos\OOP_project\OOP_project\bin\Debug\OOP_project.pdb
+E:\repos\OOP_project\OOP_project\obj\Debug\OOP_project.csproj.AssemblyReference.cache
+E:\repos\OOP_project\OOP_project\obj\Debug\OOP_project.Properties.Resources.resources
+E:\repos\OOP_project\OOP_project\obj\Debug\OOP_project.csproj.GenerateResource.cache
+E:\repos\OOP_project\OOP_project\obj\Debug\OOP_project.csproj.CoreCompileInputs.cache
+E:\repos\OOP_project\OOP_project\obj\Debug\OOP_project.exe
+E:\repos\OOP_project\OOP_project\obj\Debug\OOP_project.pdb
+E:\repos\OOP_project\OOP_project\obj\Debug\OOP_project.Form4update_Delete.resources
+E:\repos\OOP_project\OOP_project\obj\Debug\OOP_project.Form5view_Members.resources
+E:\repos\OOP_project\OOP_project\obj\Debug\OOP_project.Form1login.resources
+E:\repos\OOP_project\OOP_project\obj\Debug\OOP_project.Form2main_Window.resources
+E:\repos\OOP_project\OOP_project\obj\Debug\OOP_project.Form3add_Member.resources
+E:\repos\OOP_project\OOP_project\obj\Debug\OOP_project.Form6payments.resources
